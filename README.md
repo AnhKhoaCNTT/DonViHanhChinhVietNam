@@ -1,4 +1,4 @@
-# Thông tin tổng quan / Generals
+# Thông tin tổng quan / General
 
 ## Dữ liệu Đơn vị hành chính Việt Nam
 ## Vietnam local areas and regions updated name list data
