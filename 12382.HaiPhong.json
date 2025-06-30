@@ -1,0 +1,806 @@
+[ {
+  "id" : -1,
+  "unitCode" : null,
+  "name" : "--Chọn Phường/ Xã--",
+  "parentId" : null,
+  "type" : null,
+  "isUsed" : null
+}, {
+  "id" : 13427,
+  "unitCode" : "11533",
+  "name" : "Phường Hòa Bình",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13440,
+  "unitCode" : "11443",
+  "name" : "Phường Kiến An",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13452,
+  "unitCode" : "11635",
+  "name" : "Xã An Trường",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13463,
+  "unitCode" : "11806",
+  "name" : "Xã Chấn Hưng",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13465,
+  "unitCode" : "11824",
+  "name" : "Xã Vĩnh Bảo",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13466,
+  "unitCode" : "11911",
+  "name" : "Xã Nguyễn Bỉnh Khiêm",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13467,
+  "unitCode" : "11887",
+  "name" : "Xã Vĩnh Am",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13468,
+  "unitCode" : "11875",
+  "name" : "Xã Vĩnh Hải",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13469,
+  "unitCode" : "11848",
+  "name" : "Xã Vĩnh Hòa",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13470,
+  "unitCode" : "11836",
+  "name" : "Xã Vĩnh Thịnh",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13471,
+  "unitCode" : "11842",
+  "name" : "Xã Vĩnh Thuận",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13472,
+  "unitCode" : "11503",
+  "name" : "Xã Việt Khê",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13473,
+  "unitCode" : "11914",
+  "name" : "Đặc khu Cát Hải",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13474,
+  "unitCode" : "11948",
+  "name" : "Đặc khu Bạch Long Vĩ",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13475,
+  "unitCode" : "10525",
+  "name" : "Phường Hải Dương",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13476,
+  "unitCode" : "10532",
+  "name" : "Phường Lê Thanh Nghị",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13477,
+  "unitCode" : "10543",
+  "name" : "Phường Việt Hòa",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13478,
+  "unitCode" : "10507",
+  "name" : "Phường Thành Đông",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13479,
+  "unitCode" : "10837",
+  "name" : "Phường Nam Đồng",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13480,
+  "unitCode" : "10537",
+  "name" : "Phường Tân Hưng",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13481,
+  "unitCode" : "11002",
+  "name" : "Phường Thạch Khôi",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13482,
+  "unitCode" : "10891",
+  "name" : "Phường Tứ Minh",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13483,
+  "unitCode" : "10660",
+  "name" : "Phường Ái Quốc",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13484,
+  "unitCode" : "10549",
+  "name" : "Phường Chu Văn An",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13485,
+  "unitCode" : "10546",
+  "name" : "Phường Chí Linh",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13486,
+  "unitCode" : "10570",
+  "name" : "Phường Trần Hưng Đạo",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13487,
+  "unitCode" : "10552",
+  "name" : "Phường Nguyễn Trãi",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13488,
+  "unitCode" : "10573",
+  "name" : "Phường Trần Nhân Tông",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13489,
+  "unitCode" : "10603",
+  "name" : "Phường Lê Đại Hành",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13490,
+  "unitCode" : "10675",
+  "name" : "Phường Kinh Môn",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13491,
+  "unitCode" : "10744",
+  "name" : "Phường Nguyễn Đại Năng",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13492,
+  "unitCode" : "10729",
+  "name" : "Phường Trần Liễu",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13493,
+  "unitCode" : "10678",
+  "name" : "Phường Bắc An Phụ",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13494,
+  "unitCode" : "10726",
+  "name" : "Phường Phạm Sư Mạnh",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13495,
+  "unitCode" : "10714",
+  "name" : "Phường Nhị Chiểu",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13496,
+  "unitCode" : "10705",
+  "name" : "Xã Nam An Phụ",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13497,
+  "unitCode" : "10606",
+  "name" : "Xã Nam Sách",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13498,
+  "unitCode" : "10642",
+  "name" : "Xã Thái Tân",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13499,
+  "unitCode" : "10615",
+  "name" : "Xã Hợp Tiến",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13500,
+  "unitCode" : "10633",
+  "name" : "Xã Trần Phú",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13501,
+  "unitCode" : "10645",
+  "name" : "Xã An Phú",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13502,
+  "unitCode" : "10813",
+  "name" : "Xã Thanh Hà",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13503,
+  "unitCode" : "10846",
+  "name" : "Xã Hà Tây",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13504,
+  "unitCode" : "10816",
+  "name" : "Xã Hà Bắc",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13505,
+  "unitCode" : "10843",
+  "name" : "Xã Hà Nam",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13506,
+  "unitCode" : "10882",
+  "name" : "Xã Hà Đông",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13507,
+  "unitCode" : "10888",
+  "name" : "Xã Cẩm Giang",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13508,
+  "unitCode" : "10909",
+  "name" : "Xã Tuệ Tĩnh",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13509,
+  "unitCode" : "10930",
+  "name" : "Xã Mao Điền",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13510,
+  "unitCode" : "10903",
+  "name" : "Xã Cẩm Giàng",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13511,
+  "unitCode" : "10945",
+  "name" : "Xã Kẻ Sặt",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13512,
+  "unitCode" : "10966",
+  "name" : "Xã Bình Giang",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13513,
+  "unitCode" : "10972",
+  "name" : "Xã Đường An",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13514,
+  "unitCode" : "10993",
+  "name" : "Xã Thượng Hồng",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13515,
+  "unitCode" : "10999",
+  "name" : "Xã Gia Lộc",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13516,
+  "unitCode" : "11020",
+  "name" : "Xã Yết Kiêu",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13517,
+  "unitCode" : "11050",
+  "name" : "Xã Gia Phúc",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13518,
+  "unitCode" : "11065",
+  "name" : "Xã Trường Tân",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13519,
+  "unitCode" : "11074",
+  "name" : "Xã Tứ Kỳ",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13520,
+  "unitCode" : "11113",
+  "name" : "Xã Tân Kỳ",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13521,
+  "unitCode" : "11086",
+  "name" : "Xã Đại Sơn",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13522,
+  "unitCode" : "11131",
+  "name" : "Xã Chí Minh",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13523,
+  "unitCode" : "11140",
+  "name" : "Xã Lạc Phượng",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13524,
+  "unitCode" : "11146",
+  "name" : "Xã Nguyên Giáp",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13525,
+  "unitCode" : "11203",
+  "name" : "Xã Ninh Giang",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13526,
+  "unitCode" : "11164",
+  "name" : "Xã Vĩnh Lại",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13527,
+  "unitCode" : "11224",
+  "name" : "Xã Khúc Thừa Dụ",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13528,
+  "unitCode" : "11167",
+  "name" : "Xã Tân An",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13529,
+  "unitCode" : "11218",
+  "name" : "Xã Hồng Châu",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13530,
+  "unitCode" : "11239",
+  "name" : "Xã Thanh Miện",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13531,
+  "unitCode" : "11254",
+  "name" : "Xã Bắc Thanh Miện",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13532,
+  "unitCode" : "11257",
+  "name" : "Xã Hải Hưng",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13533,
+  "unitCode" : "11242",
+  "name" : "Xã Nguyễn Lương Bằng",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13534,
+  "unitCode" : "11284",
+  "name" : "Xã Nam Thanh Miện",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13535,
+  "unitCode" : "10750",
+  "name" : "Xã Phú Thái",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13536,
+  "unitCode" : "10756",
+  "name" : "Xã Lai Khê",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13537,
+  "unitCode" : "10792",
+  "name" : "Xã An Thành",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13538,
+  "unitCode" : "10804",
+  "name" : "Xã Kim Thành",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13425,
+  "unitCode" : "11560",
+  "name" : "Phường Thủy Nguyên",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13426,
+  "unitCode" : "11557",
+  "name" : "Phường Thiên Hương",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13428,
+  "unitCode" : "11542",
+  "name" : "Phường Nam Triệu",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13429,
+  "unitCode" : "11473",
+  "name" : "Phường Bạch Đằng",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13430,
+  "unitCode" : "11488",
+  "name" : "Phường Lưu Kiếm",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13431,
+  "unitCode" : "11506",
+  "name" : "Phường Lê Ích Mộc",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13432,
+  "unitCode" : "11311",
+  "name" : "Phường Hồng Bàng",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13433,
+  "unitCode" : "11602",
+  "name" : "Phường Hồng An",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13434,
+  "unitCode" : "11329",
+  "name" : "Phường Ngô Quyền",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13435,
+  "unitCode" : "11359",
+  "name" : "Phường Gia Viên",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13436,
+  "unitCode" : "11383",
+  "name" : "Phường Lê Chân",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13437,
+  "unitCode" : "11407",
+  "name" : "Phường An Biên",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13438,
+  "unitCode" : "11413",
+  "name" : "Phường Hải An",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13439,
+  "unitCode" : "11411",
+  "name" : "Phường Đông Hải",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13441,
+  "unitCode" : "11446",
+  "name" : "Phường Phù Liễn",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13442,
+  "unitCode" : "11737",
+  "name" : "Phường Nam Đồ Sơn",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13443,
+  "unitCode" : "11455",
+  "name" : "Phường Đồ Sơn",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13444,
+  "unitCode" : "11689",
+  "name" : "Phường Hưng Đạo",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13445,
+  "unitCode" : "11692",
+  "name" : "Phường Dương Kinh",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13446,
+  "unitCode" : "11581",
+  "name" : "Phường An Dương",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13447,
+  "unitCode" : "11617",
+  "name" : "Phường An Hải",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13448,
+  "unitCode" : "11593",
+  "name" : "Phường An Phong",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13449,
+  "unitCode" : "11674",
+  "name" : "Xã An Hưng",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13450,
+  "unitCode" : "11668",
+  "name" : "Xã An Khánh",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13451,
+  "unitCode" : "11647",
+  "name" : "Xã An Quang",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13453,
+  "unitCode" : "11629",
+  "name" : "Xã An Lão",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13454,
+  "unitCode" : "11680",
+  "name" : "Xã Kiến Thụy",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13455,
+  "unitCode" : "11725",
+  "name" : "Xã Kiến Minh",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13456,
+  "unitCode" : "11749",
+  "name" : "Xã Kiến Hải",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13457,
+  "unitCode" : "11728",
+  "name" : "Xã Kiến Hưng",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13458,
+  "unitCode" : "11713",
+  "name" : "Xã Nghi Dương",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13459,
+  "unitCode" : "11761",
+  "name" : "Xã Quyết Thắng",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13460,
+  "unitCode" : "11755",
+  "name" : "Xã Tiên Lãng",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13461,
+  "unitCode" : "11779",
+  "name" : "Xã Tân Minh",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13462,
+  "unitCode" : "11791",
+  "name" : "Xã Tiên Minh",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 13464,
+  "unitCode" : "11809",
+  "name" : "Xã Hùng Thắng",
+  "parentId" : 12382,
+  "type" : 2,
+  "isUsed" : 1
+} ]

@@ -1,0 +1,274 @@
+[ {
+  "id" : -1,
+  "unitCode" : null,
+  "name" : "--Chọn Phường/ Xã--",
+  "parentId" : null,
+  "type" : null,
+  "isUsed" : null
+}, {
+  "id" : 12763,
+  "unitCode" : "03424",
+  "name" : "Xã Bản Bo",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12772,
+  "unitCode" : "03571",
+  "name" : "Xã Dào San",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12782,
+  "unitCode" : "03434",
+  "name" : "Xã Nậm Hàng",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12755,
+  "unitCode" : "03637",
+  "name" : "Xã Mường Kim",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12756,
+  "unitCode" : "03640",
+  "name" : "Xã Khoen On",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12757,
+  "unitCode" : "03595",
+  "name" : "Xã Than Uyên",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12758,
+  "unitCode" : "03618",
+  "name" : "Xã Mường Than",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12759,
+  "unitCode" : "03616",
+  "name" : "Xã Pắc Ta",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12760,
+  "unitCode" : "03613",
+  "name" : "Xã Nậm Sỏ",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12761,
+  "unitCode" : "03598",
+  "name" : "Xã Tân Uyên",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12762,
+  "unitCode" : "03601",
+  "name" : "Xã Mường Khoa",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12764,
+  "unitCode" : "03390",
+  "name" : "Xã Bình Lư",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12765,
+  "unitCode" : "03405",
+  "name" : "Xã Tả Lèng",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12766,
+  "unitCode" : "03430",
+  "name" : "Xã Khun Há",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12767,
+  "unitCode" : "03408",
+  "name" : "Phường Tân Phong",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12768,
+  "unitCode" : "03388",
+  "name" : "Phường Đoàn Kết",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12769,
+  "unitCode" : "03394",
+  "name" : "Xã Sin Suối Hồ",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12770,
+  "unitCode" : "03549",
+  "name" : "Xã Phong Thổ",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12771,
+  "unitCode" : "03562",
+  "name" : "Xã Sì Lở Lầu",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12773,
+  "unitCode" : "03583",
+  "name" : "Xã Khổng Lào",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12774,
+  "unitCode" : "03529",
+  "name" : "Xã Tủa Sín Chải",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12775,
+  "unitCode" : "03478",
+  "name" : "Xã Sìn Hồ",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12776,
+  "unitCode" : "03508",
+  "name" : "Xã Hồng Thu",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12777,
+  "unitCode" : "03517",
+  "name" : "Xã Nậm Tăm",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12778,
+  "unitCode" : "03532",
+  "name" : "Xã Pu Sam Cáp",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12779,
+  "unitCode" : "03544",
+  "name" : "Xã Nậm Cuổi",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12780,
+  "unitCode" : "03538",
+  "name" : "Xã Nậm Mạ",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12781,
+  "unitCode" : "03487",
+  "name" : "Xã Lê Lợi",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12783,
+  "unitCode" : "03472",
+  "name" : "Xã Mường Mô",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12784,
+  "unitCode" : "03460",
+  "name" : "Xã Hua Bum",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12785,
+  "unitCode" : "03503",
+  "name" : "Xã Pa Tần",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12786,
+  "unitCode" : "03466",
+  "name" : "Xã Bum Nưa",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12787,
+  "unitCode" : "03433",
+  "name" : "Xã Bum Tở",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12788,
+  "unitCode" : "03445",
+  "name" : "Xã Mường Tè",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12789,
+  "unitCode" : "03439",
+  "name" : "Xã Thu Lũm",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12790,
+  "unitCode" : "03442",
+  "name" : "Xã Pa Ủ",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12791,
+  "unitCode" : "03463",
+  "name" : "Xã Tà Tổng",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+}, {
+  "id" : 12792,
+  "unitCode" : "03451",
+  "name" : "Xã Mù Cả",
+  "parentId" : 12374,
+  "type" : 2,
+  "isUsed" : 1
+} ]
