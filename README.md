@@ -10,7 +10,7 @@ Hiệu lực hành chính từ ngày: **01/7/2025**.
 Nguồn: Nghị quyết của Quốc hội, Cổng Dịch vụ công Quốc gia và các nguồn tin cậy.
 
 > [!NOTE]
-> Tài liệu toàn thư mở của dự án [_(xem tại đây)_](/wiki)
+> Tài liệu toàn thư mở của dự án [_(xem tại đây)_](/wiki/Home)
 
 # Tóm tắt số liệu
 
