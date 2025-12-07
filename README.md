@@ -34,7 +34,7 @@ _Develop data API and frontend sample data picker for other multiple framework o
 |STT|Mục tiêu|Tiến độ|
 |:--:|:--|:--|
 |01|Dữ liệu nguồn JSON gốc|Hoàn thành|
-|02|Hỗ trợ cho Python FastAPI|Dự kiến|
+|02|Hỗ trợ cho Python FastAPI|Đang thực hiện|
 |03|Hỗ trợ cho Python Dijango|Dự kiến|
 |04|Hỗ trợ cho Python Flask|Dự kiến|
 |05|Hỗ trợ cho NestJS|Dự kiến|
