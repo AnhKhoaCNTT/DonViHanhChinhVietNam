@@ -34,17 +34,19 @@ _Develop data API and frontend sample data picker for other multiple framework o
 |STT|Mục tiêu|Tiến độ|
 |:--:|:--|:--|
 |01|Dữ liệu nguồn JSON gốc|Hoàn thành|
-|02|Hỗ trợ cho Python|Dự kiến|
-|03|Hỗ trợ cho NestJS|Dự kiến|
-|04|Hỗ trợ cho NextJS|Dự kiến|
-|05|Hỗ trợ cho ReactJS|Dự kiến|
-|06|Hỗ trợ cho NodeJS|Dự kiến|
-|07|Hỗ trợ cho VueJS|Dự kiến|
-|08|Hỗ trợ cho NuxtJS|Dự kiến|
-|09|Hỗ trợ cho Golang|Dự kiến|
-|10|Hỗ trợ cho .NET|Dự kiến|
-|11|Hỗ trợ cho Java|Dự kiến|
-|12|Hỗ trợ cho Kotlin|Dự kiến|
+|02|Hỗ trợ cho Python FastAPI|Dự kiến|
+|03|Hỗ trợ cho Python Dijango|Dự kiến|
+|04|Hỗ trợ cho Python Flask|Dự kiến|
+|05|Hỗ trợ cho NestJS|Dự kiến|
+|06|Hỗ trợ cho NextJS|Dự kiến|
+|07|Hỗ trợ cho ReactJS|Dự kiến|
+|08|Hỗ trợ cho NodeJS|Dự kiến|
+|09|Hỗ trợ cho VueJS|Dự kiến|
+|10|Hỗ trợ cho NuxtJS|Dự kiến|
+|11|Hỗ trợ cho Golang|Dự kiến|
+|12|Hỗ trợ cho .NET|Dự kiến|
+|13|Hỗ trợ cho Java|Dự kiến|
+|14|Hỗ trợ cho Kotlin|Dự kiến|
 
 # Đóng góp / Contributors
 Nguyễn Hoàng Anh Khoa
