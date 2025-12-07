@@ -3,7 +3,7 @@
 
 # Tổng quan dự án
 
-Dự án mã nguồn mở cung cấp dữ liệu **Đơn vị hành chính Việt Nam** sau khi chính phủ quyết định sáp nhập/tái cơ cấu các đơn vị hành chính.
+Dự án mã nguồn mở cung cấp dữ liệu **Đơn vị hành chính Việt Nam** sau khi Chính phủ quyết định sáp nhập/tái cơ cấu các đơn vị hành chính.
 
 Hiệu lực hành chính từ ngày: **01/7/2025**.
 
