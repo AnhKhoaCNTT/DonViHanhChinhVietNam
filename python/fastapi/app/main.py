@@ -1,6 +1,5 @@
 from fastapi import FastAPI
-from app.routers import communes_and_wards
-from app.routers import provinces_and_cities
+from app.routers import communal, provincial
 
 app=FastAPI()
 
@@ -8,5 +7,5 @@ app=FastAPI()
 async def root():
     return {"message": "Hello World"}
 
-app.include_router(provinces_and_cities.router)
-app.include_router(communes_and_wards.router)
+app.include_router(provincial.router)
+app.include_router(communal.router)
