@@ -1,4 +1,4 @@
-class Province:
+class ProvinceOrCity:
     def __init__(self, id: int, unitCode: str, name: str, type: int=1):
         self.id=id
         self.unitCode=unitCode
@@ -7,7 +7,7 @@ class Province:
         self.type=type
         #self.isUsed=True
 
-class Commune:
+class CommuneOrWard:
     def __init__(self, id: int, unitCode: str, name: str, parentId: int, type: int=2):
         self.id=id
         self.unitCode=unitCode
