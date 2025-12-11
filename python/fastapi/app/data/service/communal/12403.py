@@ -1,7 +1,72 @@
-#12370
-#Thành phố Hà Nội
-#unitCode=01
+#12403
+#Tỉnh Cà Mau
+#unitCode="96"
 
-from app.datafiles.models import Commune
+from app.data.models import CommuneOrWard
 
-response_list=[]
+response_list=[
+    CommuneOrWard(15663,"32025","Phường Tân Thành",12403,2),
+    CommuneOrWard(15661,"32002","Phường An Xuyên",12403,2),
+    CommuneOrWard(15662,"32014","Phường Lý Văn Lâm",12403,2),
+    CommuneOrWard(15664,"32041","Phường Hòa Thành",12403,2),
+    CommuneOrWard(15665,"32167","Xã Tân Thuận",12403,2),
+    CommuneOrWard(15666,"32188","Xã Tân Tiến",12403,2),
+    CommuneOrWard(15667,"32155","Xã Tạ An Khương",12403,2),
+    CommuneOrWard(15668,"32161","Xã Trần Phán",12403,2),
+    CommuneOrWard(15669,"32185","Xã Thanh Tùng",12403,2),
+    CommuneOrWard(15670,"32152","Xã Đầm Dơi",12403,2),
+    CommuneOrWard(15671,"32182","Xã Quách Phẩm",12403,2),
+    CommuneOrWard(15672,"32047","Xã U Minh",12403,2),
+    CommuneOrWard(15673,"32044","Xã Nguyễn Phích",12403,2),
+    CommuneOrWard(15674,"32062","Xã Khánh Lâm",12403,2),
+    CommuneOrWard(15675,"32059","Xã Khánh An",12403,2),
+    CommuneOrWard(15676,"32244","Xã Phan Ngọc Hiển",12403,2),
+    CommuneOrWard(15677,"32248","Xã Đất Mũi",12403,2),
+    CommuneOrWard(15678,"32236","Xã Tân Ân",12403,2),
+    CommuneOrWard(15679,"32110","Xã Khánh Bình",12403,2),
+    CommuneOrWard(15680,"32104","Xã Đá Bạc",12403,2),
+    CommuneOrWard(15681,"32119","Xã Khánh Hưng",12403,2),
+    CommuneOrWard(15682,"32098","Xã Sông Đốc",12403,2),
+    CommuneOrWard(15683,"32095","Xã Trần Văn Thời",12403,2),
+    CommuneOrWard(15684,"32065","Xã Thới Bình",12403,2),
+    CommuneOrWard(15685,"32071","Xã Trí Phải",12403,2),
+    CommuneOrWard(15686,"32083","Xã Tân Lộc",12403,2),
+    CommuneOrWard(15687,"32092","Xã Hồ Thị Kỷ",12403,2),
+    CommuneOrWard(15688,"32069","Xã Biển Bạch",12403,2),
+    CommuneOrWard(15689,"32201","Xã Đất Mới",12403,2),
+    CommuneOrWard(15690,"32191","Xã Năm Căn",12403,2),
+    CommuneOrWard(15691,"32206","Xã Tam Giang",12403,2),
+    CommuneOrWard(15692,"32212","Xã Cái Đôi Vàm",12403,2),
+    CommuneOrWard(15693,"32227","Xã Nguyễn Việt Khái",12403,2),
+    CommuneOrWard(15694,"32218","Xã Phú Tân",12403,2),
+    CommuneOrWard(15695,"32214","Xã Phú Mỹ",12403,2),
+    CommuneOrWard(15696,"32134","Xã Lương Thế Trân",12403,2),
+    CommuneOrWard(15697,"32137","Xã Tân Hưng",12403,2),
+    CommuneOrWard(15698,"32140","Xã Hưng Mỹ",12403,2),
+    CommuneOrWard(15699,"32128","Xã Cái Nước",12403,2),
+    CommuneOrWard(15700,"31825","Phường Bạc Liêu",12403,2),
+    CommuneOrWard(15701,"31834","Phường Vĩnh Trạch",12403,2),
+    CommuneOrWard(15702,"31840","Phường Hiệp Thành",12403,2),
+    CommuneOrWard(15703,"31942","Phường Giá Rai",12403,2),
+    CommuneOrWard(15704,"31951","Phường Láng Tròn",12403,2),
+    CommuneOrWard(15705,"31957","Xã Phong Thạnh",12403,2),
+    CommuneOrWard(15706,"31843","Xã Hồng Dân",12403,2),
+    CommuneOrWard(15707,"31858","Xã Vĩnh Lộc",12403,2),
+    CommuneOrWard(15708,"31864","Xã Ninh Thạnh Lợi",12403,2),
+    CommuneOrWard(15709,"31849","Xã Ninh Quới",12403,2),
+    CommuneOrWard(15710,"31972","Xã Gành Hào",12403,2),
+    CommuneOrWard(15711,"31993","Xã Định Thành",12403,2),
+    CommuneOrWard(15712,"31988","Xã An Trạch",12403,2),
+    CommuneOrWard(15713,"31985","Xã Long Điền",12403,2),
+    CommuneOrWard(15714,"31975","Xã Đông Hải",12403,2),
+    CommuneOrWard(15715,"31891","Xã Hòa Bình",12403,2),
+    CommuneOrWard(15716,"31918","Xã Vĩnh Mỹ",12403,2),
+    CommuneOrWard(15717,"31927","Xã Vĩnh Hậu",12403,2),
+    CommuneOrWard(15718,"31867","Xã Phước Long",12403,2),
+    CommuneOrWard(15719,"31876","Xã Vĩnh Phước",12403,2),
+    CommuneOrWard(15720,"31885","Xã Phong Hiệp",12403,2),
+    CommuneOrWard(15721,"31882","Xã Vĩnh Thanh",12403,2),
+    CommuneOrWard(15722,"31900","Xã Vĩnh Lợi",12403,2),
+    CommuneOrWard(15723,"31906","Xã Hưng Hội",12403,2),
+    CommuneOrWard(15724,"31894","Xã Châu Thới",12403,2)
+]

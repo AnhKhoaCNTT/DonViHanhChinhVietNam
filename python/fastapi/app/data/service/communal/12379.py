@@ -1,7 +1,62 @@
-#12370
-#Thành phố Hà Nội
-#unitCode=01
+#12379
+#Tỉnh Quảng Ninh
+#unitCode="22"
 
-from app.datafiles.models import Commune
+from app.data.models import CommuneOrWard
 
-response_list=[]
+response_list=[
+    CommuneOrWard(13158,"6985","Xã Lương Minh",12379,2),
+    CommuneOrWard(13169,"6724","Xã Hải Sơn",12379,2),
+    CommuneOrWard(13124,"7090","Phường An Sinh",12379,2),
+    CommuneOrWard(13125,"7093","Phường Đông Triều",12379,2),
+    CommuneOrWard(13126,"7081","Phường Bình Khê",12379,2),
+    CommuneOrWard(13127,"7069","Phường Mạo Khê",12379,2),
+    CommuneOrWard(13128,"7114","Phường Hoàng Quế",12379,2),
+    CommuneOrWard(13129,"6832","Phường Yên Tử",12379,2),
+    CommuneOrWard(13130,"6820","Phường Vàng Danh",12379,2),
+    CommuneOrWard(13131,"6811","Phường Uông Bí",12379,2),
+    CommuneOrWard(13132,"7135","Phường Đông Mai",12379,2),
+    CommuneOrWard(13133,"7147","Phường Hiệp Hòa",12379,2),
+    CommuneOrWard(13134,"7132","Phường Quảng Yên",12379,2),
+    CommuneOrWard(13135,"7168","Phường Hà An",12379,2),
+    CommuneOrWard(13136,"7183","Phường Phong Cốc",12379,2),
+    CommuneOrWard(13137,"7180","Phường Liên Hòa",12379,2),
+    CommuneOrWard(13138,"6706","Phường Tuần Châu",12379,2),
+    CommuneOrWard(13139,"6661","Phường Việt Hưng",12379,2),
+    CommuneOrWard(13140,"6673","Phường Bãi Cháy",12379,2),
+    CommuneOrWard(13141,"6652","Phường Hà Tu",12379,2),
+    CommuneOrWard(13142,"6676","Phường Hà Lầm",12379,2),
+    CommuneOrWard(13143,"6658","Phường Cao Xanh",12379,2),
+    CommuneOrWard(13144,"6685","Phường Hồng Gai",12379,2),
+    CommuneOrWard(13145,"6688","Phường Hạ Long",12379,2),
+    CommuneOrWard(13146,"7030","Phường Hoành Bồ",12379,2),
+    CommuneOrWard(13147,"7054","Xã Quảng La",12379,2),
+    CommuneOrWard(13148,"7060","Xã Thống Nhất",12379,2),
+    CommuneOrWard(13149,"6760","Phường Mông Dương",12379,2),
+    CommuneOrWard(13150,"6778","Phường Quang Hanh",12379,2),
+    CommuneOrWard(13151,"6793","Phường Cẩm Phả",12379,2),
+    CommuneOrWard(13152,"6781","Phường Cửa Ông",12379,2),
+    CommuneOrWard(13153,"6799","Xã Hải Hòa",12379,2),
+    CommuneOrWard(13154,"6862","Xã Tiên Yên",12379,2),
+    CommuneOrWard(13155,"6874","Xã Điền Xá",12379,2),
+    CommuneOrWard(13156,"6877","Xã Đông Ngũ",12379,2),
+    CommuneOrWard(13157,"6886","Xã Hải Lạng",12379,2),
+    CommuneOrWard(13159,"6979","Xã Kỳ Thượng",12379,2),
+    CommuneOrWard(13160,"6970","Xã Ba Chẽ",12379,2),
+    CommuneOrWard(13161,"6913","Xã Quảng Tân",12379,2),
+    CommuneOrWard(13162,"6895","Xã Đầm Hà",12379,2),
+    CommuneOrWard(13163,"6922","Xã Quảng Hà",12379,2),
+    CommuneOrWard(13164,"6946","Xã Đường Hoa",12379,2),
+    CommuneOrWard(13165,"6931","Xã Quảng Đức",12379,2),
+    CommuneOrWard(13166,"6841","Xã Hoành Mô",12379,2),
+    CommuneOrWard(13167,"6856","Xã Lục Hồn",12379,2),
+    CommuneOrWard(13168,"6838","Xã Bình Liêu",12379,2),
+    CommuneOrWard(13170,"6733","Xã Hải Ninh",12379,2),
+    CommuneOrWard(13171,"6757","Xã Vĩnh Thực",12379,2),
+    CommuneOrWard(13173,"6709","Phường Móng Cái 2",12379,2),
+    CommuneOrWard(13174,"6736","Phường Móng Cái 3",12379,2),
+    CommuneOrWard(13175,"6994","Đặc khu Vân Đồn",12379,2),
+    CommuneOrWard(13176,"7192","Đặc khu Cô Tô",12379,2),
+    CommuneOrWard(13177,"6967","Xã Cái Chiên",12379,2),
+    CommuneOrWard(13172,"6712","Phường Móng Cái 1",12379,2)
+]

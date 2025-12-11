@@ -1,7 +1,73 @@
-#12370
-#Thành phố Hà Nội
-#unitCode=01
+#12378
+#Tỉnh Lạng Sơn
+#unitCode="20"
 
-from app.datafiles.models import Commune
+from app.data.models import CommuneOrWard
 
-response_list=[]
+response_list=[
+    CommuneOrWard(13061,"6019","Xã Tân Tiến",12378,2),
+    CommuneOrWard(13059,"6040","Xã Thất Khê",12378,2),
+    CommuneOrWard(13060,"6001","Xã Đoàn Kết",12378,2),
+    CommuneOrWard(13062,"6046","Xã Tràng Định",12378,2),
+    CommuneOrWard(13063,"6004","Xã Quốc Khánh",12378,2),
+    CommuneOrWard(13064,"6037","Xã Kháng Chiến",12378,2),
+    CommuneOrWard(13065,"6058","Xã Quốc Việt",12378,2),
+    CommuneOrWard(13066,"6112","Xã Bình Gia",12378,2),
+    CommuneOrWard(13067,"6115","Xã Tân Văn",12378,2),
+    CommuneOrWard(13068,"6079","Xã Hồng Phong",12378,2),
+    CommuneOrWard(13069,"6073","Xã Hoa Thám",12378,2),
+    CommuneOrWard(13070,"6076","Xã Quý Hòa",12378,2),
+    CommuneOrWard(13071,"6085","Xã Thiện Hòa",12378,2),
+    CommuneOrWard(13072,"6091","Xã Thiện Thuật",12378,2),
+    CommuneOrWard(13073,"6103","Xã Thiện Long",12378,2),
+    CommuneOrWard(13074,"6325","Xã Bắc Sơn",12378,2),
+    CommuneOrWard(13075,"6349","Xã Hưng Vũ",12378,2),
+    CommuneOrWard(13076,"6367","Xã Vũ Lăng",12378,2),
+    CommuneOrWard(13077,"6376","Xã Nhất Hòa",12378,2),
+    CommuneOrWard(13078,"6364","Xã Vũ Lễ",12378,2),
+    CommuneOrWard(13079,"6337","Xã Tân Tri",12378,2),
+    CommuneOrWard(13080,"6253","Xã Văn Quan",12378,2),
+    CommuneOrWard(13081,"6280","Xã Điềm He",12378,2),
+    CommuneOrWard(13082,"6313","Xã Tri Lễ",12378,2),
+    CommuneOrWard(13083,"6298","Xã Yên Phúc",12378,2),
+    CommuneOrWard(13084,"6316","Xã Tân Đoàn",12378,2),
+    CommuneOrWard(13085,"6286","Xã Khánh Khê",12378,2),
+    CommuneOrWard(13086,"6124","Xã Na Sầm",12378,2),
+    CommuneOrWard(13087,"6154","Xã Văn Lãng",12378,2),
+    CommuneOrWard(13088,"6151","Xã Hội Hoan",12378,2),
+    CommuneOrWard(13089,"6148","Xã Thụy Hùng",12378,2),
+    CommuneOrWard(13090,"6172","Xã Hoàng Văn Thụ",12378,2),
+    CommuneOrWard(13091,"6529","Xã Lộc Bình",12378,2),
+    CommuneOrWard(13092,"6541","Xã Mẫu Sơn",12378,2),
+    CommuneOrWard(13093,"6526","Xã Na Dương",12378,2),
+    CommuneOrWard(13094,"6601","Xã Lợi Bác",12378,2),
+    CommuneOrWard(13095,"6577","Xã Thống Nhất",12378,2),
+    CommuneOrWard(13096,"6607","Xã Xuân Dương",12378,2),
+    CommuneOrWard(13097,"6565","Xã Khuất Xá",12378,2),
+    CommuneOrWard(13098,"6613","Xã Đình Lập",12378,2),
+    CommuneOrWard(13099,"6637","Xã Châu Sơn",12378,2),
+    CommuneOrWard(13100,"6625","Xã Kiên Mộc",12378,2),
+    CommuneOrWard(13101,"6616","Xã Thái Bình",12378,2),
+    CommuneOrWard(13102,"6385","Xã Hữu Lũng",12378,2),
+    CommuneOrWard(13103,"6457","Xã Tuấn Sơn",12378,2),
+    CommuneOrWard(13104,"6445","Xã Tân Thành",12378,2),
+    CommuneOrWard(13105,"6415","Xã Vân Nham",12378,2),
+    CommuneOrWard(13106,"6436","Xã Thiện Tân",12378,2),
+    CommuneOrWard(13107,"6391","Xã Yên Bình",12378,2),
+    CommuneOrWard(13108,"6400","Xã Hữu Liên",12378,2),
+    CommuneOrWard(13109,"6427","Xã Cai Kinh",12378,2),
+    CommuneOrWard(13110,"6463","Xã Chi Lăng",12378,2),
+    CommuneOrWard(13111,"6496","Xã Nhân Lý",12378,2),
+    CommuneOrWard(13112,"6481","Xã Chiến Thắng",12378,2),
+    CommuneOrWard(13113,"6517","Xã Quan Sơn",12378,2),
+    CommuneOrWard(13114,"6475","Xã Bằng Mạc",12378,2),
+    CommuneOrWard(13115,"6505","Xã Vạn Linh",12378,2),
+    CommuneOrWard(13116,"6184","Xã Đồng Đăng",12378,2),
+    CommuneOrWard(13117,"6211","Xã Cao Lộc",12378,2),
+    CommuneOrWard(13118,"6220","Xã Công Sơn",12378,2),
+    CommuneOrWard(13119,"6196","Xã Ba Sơn",12378,2),
+    CommuneOrWard(13120,"5986","Phường Tam Thanh",12378,2),
+    CommuneOrWard(13121,"5983","Phường Lương Văn Tri",12378,2),
+    CommuneOrWard(13122,"6187","Phường Kỳ Lừa",12378,2),
+    CommuneOrWard(13123,"5977","Phường Đông Kinh",12378,2)
+]

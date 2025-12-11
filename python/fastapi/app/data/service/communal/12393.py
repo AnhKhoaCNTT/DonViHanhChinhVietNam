@@ -1,7 +1,73 @@
-#12370
-#Thành phố Hà Nội
-#unitCode=01
+#12393
+#Tỉnh Khánh Hòa
+#unitCode="56"
 
-from app.datafiles.models import Commune
+from app.data.models import CommuneOrWard
 
-response_list=[]
+response_list=[
+    CommuneOrWard(14586,"22432","Phường Cam Linh",12393,2),
+    CommuneOrWard(14598,"22498","Xã Tu Bông",12393,2),
+    CommuneOrWard(14607,"22702","Xã Suối Hiệp",12393,2),
+    CommuneOrWard(14580,"22366","Phường Nha Trang",12393,2),
+    CommuneOrWard(14581,"22333","Phường Bắc Nha Trang",12393,2),
+    CommuneOrWard(14582,"22390","Phường Tây Nha Trang",12393,2),
+    CommuneOrWard(14583,"22402","Phường Nam Nha Trang",12393,2),
+    CommuneOrWard(14584,"22411","Phường Bắc Cam Ranh",12393,2),
+    CommuneOrWard(14585,"22420","Phường Cam Ranh",12393,2),
+    CommuneOrWard(14587,"22423","Phường Ba Ngòi",12393,2),
+    CommuneOrWard(14588,"22480","Xã Nam Cam Ranh",12393,2),
+    CommuneOrWard(14589,"22546","Xã Bắc Ninh Hòa",12393,2),
+    CommuneOrWard(14590,"22528","Phường Ninh Hòa",12393,2),
+    CommuneOrWard(14591,"22576","Xã Tân Định",12393,2),
+    CommuneOrWard(14592,"22561","Phường Đông Ninh Hòa",12393,2),
+    CommuneOrWard(14593,"22591","Phường Hòa Thắng",12393,2),
+    CommuneOrWard(14594,"22597","Xã Nam Ninh Hòa",12393,2),
+    CommuneOrWard(14595,"22552","Xã Tây Ninh Hòa",12393,2),
+    CommuneOrWard(14596,"22558","Xã Hòa Trí",12393,2),
+    CommuneOrWard(14597,"22504","Xã Đại Lãnh",12393,2),
+    CommuneOrWard(14599,"22516","Xã Vạn Thắng",12393,2),
+    CommuneOrWard(14600,"22489","Xã Vạn Ninh",12393,2),
+    CommuneOrWard(14601,"22525","Xã Vạn Hưng",12393,2),
+    CommuneOrWard(14602,"22651","Xã Diên Khánh",12393,2),
+    CommuneOrWard(14603,"22678","Xã Diên Lạc",12393,2),
+    CommuneOrWard(14604,"22657","Xã Diên Điền",12393,2),
+    CommuneOrWard(14605,"22660","Xã Diên Lâm",12393,2),
+    CommuneOrWard(14606,"22672","Xã Diên Thọ",12393,2),
+    CommuneOrWard(14608,"22453","Xã Cam Lâm",12393,2),
+    CommuneOrWard(14609,"22708","Xã Suối Dầu",12393,2),
+    CommuneOrWard(14610,"22435","Xã Cam Hiệp",12393,2),
+    CommuneOrWard(14611,"22465","Xã Cam An",12393,2),
+    CommuneOrWard(14612,"22615","Xã Bắc Khánh Vĩnh",12393,2),
+    CommuneOrWard(14613,"22612","Xã Trung Khánh Vĩnh",12393,2),
+    CommuneOrWard(14614,"22624","Xã Tây Khánh Vĩnh",12393,2),
+    CommuneOrWard(14615,"22648","Xã Nam Khánh Vĩnh",12393,2),
+    CommuneOrWard(14616,"22609","Xã Khánh Vĩnh",12393,2),
+    CommuneOrWard(14617,"22714","Xã Khánh Sơn",12393,2),
+    CommuneOrWard(14618,"22720","Xã Tây Khánh Sơn",12393,2),
+    CommuneOrWard(14619,"22732","Xã Đông Khánh Sơn",12393,2),
+    CommuneOrWard(14620,"22736","Đặc khu Trường Sa",12393,2),
+    CommuneOrWard(14621,"22759","Phường Phan Rang",12393,2),
+    CommuneOrWard(14622,"22780","Phường Đông Hải",12393,2),
+    CommuneOrWard(14623,"22834","Phường Ninh Chử",12393,2),
+    CommuneOrWard(14624,"22741","Phường Bảo An",12393,2),
+    CommuneOrWard(14625,"22738","Phường Đô Vinh",12393,2),
+    CommuneOrWard(14626,"22870","Xã Ninh Phước",12393,2),
+    CommuneOrWard(14627,"22891","Xã Phước Hữu",12393,2),
+    CommuneOrWard(14628,"22873","Xã Phước Hậu",12393,2),
+    CommuneOrWard(14629,"22897","Xã Thuận Nam",12393,2),
+    CommuneOrWard(14630,"22909","Xã Cà Ná",12393,2),
+    CommuneOrWard(14631,"22900","Xã Phước Hà",12393,2),
+    CommuneOrWard(14632,"22888","Xã Phước Dinh",12393,2),
+    CommuneOrWard(14633,"22852","Xã Ninh Hải",12393,2),
+    CommuneOrWard(14634,"22861","Xã Xuân Hải",12393,2),
+    CommuneOrWard(14635,"22846","Xã Vĩnh Hải",12393,2),
+    CommuneOrWard(14636,"22849","Xã Thuận Bắc",12393,2),
+    CommuneOrWard(14637,"22840","Xã Công Hải",12393,2),
+    CommuneOrWard(14638,"22810","Xã Ninh Sơn",12393,2),
+    CommuneOrWard(14639,"22813","Xã Lâm Sơn",12393,2),
+    CommuneOrWard(14640,"22828","Xã Anh Dũng",12393,2),
+    CommuneOrWard(14641,"22822","Xã Mỹ Sơn",12393,2),
+    CommuneOrWard(14642,"22801","Xã Bác Ái Đông",12393,2),
+    CommuneOrWard(14643,"22795","Xã Bác Ái",12393,2),
+    CommuneOrWard(14644,"22786","Xã Bác Ái Tây",12393,2)
+]

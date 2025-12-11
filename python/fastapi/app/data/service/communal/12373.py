@@ -1,7 +1,53 @@
-#12370
-#Thành phố Hà Nội
-#unitCode=01
+#12373
+#Tỉnh Điện Biên
+#unitCode="11"
 
-from app.datafiles.models import Commune
+from app.data.models import CommuneOrWard
 
-response_list=[]
+response_list=[
+    CommuneOrWard(12732,"3193","Xã Pa Ham",12373,2),
+    CommuneOrWard(12741,"3166","Xã Mường Chà",12373,2),
+    CommuneOrWard(12753,"3301","Xã Búng Lao",12373,2),
+    CommuneOrWard(12710,"3325","Xã Mường Phăng",12373,2),
+    CommuneOrWard(12711,"3127","Phường Điện Biên Phủ",12373,2),
+    CommuneOrWard(12712,"3334","Phường Mường Thanh",12373,2),
+    CommuneOrWard(12713,"3151","Phường Mường Lay",12373,2),
+    CommuneOrWard(12714,"3328","Xã Thanh Nưa",12373,2),
+    CommuneOrWard(12715,"3352","Xã Thanh An",12373,2),
+    CommuneOrWard(12716,"3349","Xã Thanh Yên",12373,2),
+    CommuneOrWard(12717,"3356","Xã Sam Mứn",12373,2),
+    CommuneOrWard(12718,"3358","Xã Núa Ngam",12373,2),
+    CommuneOrWard(12719,"3368","Xã Mường Nhà",12373,2),
+    CommuneOrWard(12720,"3253","Xã Tuần Giáo",12373,2),
+    CommuneOrWard(12721,"3295","Xã Quài Tở",12373,2),
+    CommuneOrWard(12722,"3268","Xã Mường Mùn",12373,2),
+    CommuneOrWard(12723,"3260","Xã Pú Nhung",12373,2),
+    CommuneOrWard(12724,"3283","Xã Chiềng Sinh",12373,2),
+    CommuneOrWard(12725,"3217","Xã Tủa Chùa",12373,2),
+    CommuneOrWard(12726,"3226","Xã Sín Chải",12373,2),
+    CommuneOrWard(12727,"3241","Xã Sính Phình",12373,2),
+    CommuneOrWard(12728,"3220","Xã Tủa Thàng",12373,2),
+    CommuneOrWard(12729,"3244","Xã Sáng Nhè",12373,2),
+    CommuneOrWard(12730,"3172","Xã Na Sang",12373,2),
+    CommuneOrWard(12731,"3181","Xã Mường Tùng",12373,2),
+    CommuneOrWard(12733,"3194","Xã Nậm Nèn",12373,2),
+    CommuneOrWard(12734,"3202","Xã Mường Pồn",12373,2),
+    CommuneOrWard(12735,"3203","Xã Na Son",12373,2),
+    CommuneOrWard(12736,"3208","Xã Xa Dung",12373,2),
+    CommuneOrWard(12737,"3370","Xã Pu Nhi",12373,2),
+    CommuneOrWard(12738,"3214","Xã Mường Luân",12373,2),
+    CommuneOrWard(12739,"3385","Xã Tìa Dình",12373,2),
+    CommuneOrWard(12740,"3382","Xã Phình Giàng",12373,2),
+    CommuneOrWard(12742,"3169","Xã Nà Hỳ",12373,2),
+    CommuneOrWard(12743,"3176","Xã Nà Bủng",12373,2),
+    CommuneOrWard(12744,"3175","Xã Chà Tở",12373,2),
+    CommuneOrWard(12745,"3199","Xã Si Pa Phìn",12373,2),
+    CommuneOrWard(12746,"3160","Xã Mường Nhé",12373,2),
+    CommuneOrWard(12747,"3158","Xã Sín Thầu",12373,2),
+    CommuneOrWard(12748,"3163","Xã Mường Toong",12373,2),
+    CommuneOrWard(12749,"3162","Xã Nậm Kè",12373,2),
+    CommuneOrWard(12750,"3164","Xã Quảng Lâm",12373,2),
+    CommuneOrWard(12751,"3256","Xã Mường Ảng",12373,2),
+    CommuneOrWard(12752,"3316","Xã Nà Tấu",12373,2),
+    CommuneOrWard(12754,"3313","Xã Mường Lạn",12373,2)
+]
