@@ -18,9 +18,10 @@ Tổng cộng có **3355** đơn vị dữ liệu.
 
 |Đơn vị cấp Tỉnh/Thành phố||Đơn vị cấp Xã/Phường||
 |:--|--:|:--|--:|
-|Thành phố|6|Phường|662|
-|Tỉnh|28|Xã|2610|
-|**Tổng cộng**|**34**|**Tổng cộng**|**3272**|
+|Thành phố|6|Phường|687|
+|Tỉnh|28|Xã|2621|
+| | |Đặc khu|13|
+|**Tổng cộng**|**34**|**Tổng cộng**|**3321**|
 
 # Mục tiêu và kế hoạch
 

@@ -13,9 +13,10 @@ Total is **3355** data items.
 
 |Provincial-level units||Commune-level units||
 |:--|--:|:--|--:|
-|City|6|Ward|662|
-|Province|28|Commune|2610|
-|**Total**|**34**|**Total**|**3272**|
+|City|6|Ward|687|
+|Province|28|Commune|2621|
+| | |Special zone|13|
+|**Total**|**34**|**Total**|**3321**|
 
 # Objectives and plans
 Develop data API and frontend sample data picker for other multiple framework or platforms.
